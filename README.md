@@ -1,4 +1,4 @@
-# lazada_api_example
+# Lazada Seller Center API Example
 
 Example of using Lazada Seller Center API on ruby language. 
 
